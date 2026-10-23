@@ -175,10 +175,11 @@ section {
 }
 
 .section_pic-container {
+    display: center;
     display: flex;
     height: 400px;
     width: 400px;
-    margin: auto 0;
+    margin: auto auto;
 }
 
 .section_text{
