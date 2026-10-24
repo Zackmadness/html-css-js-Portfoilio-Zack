@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/33896905/README.md)
 # Zack's Portfolio
 
 A personal portfolio website built with plain HTML, CSS, and JavaScript.
