@@ -1,7 +1,7 @@
 [README.md](https://github.com/user-attachments/files/33896905/README.md)
 # Zack's Portfolio
 
-A personal portfolio website built with plain HTML, CSS, and JavaScript. No frameworks or build tools. Just the fundamentals of frontend development.
+A personal portfolio website built with plain HTML, CSS, and JavaScript.
 
 > Currently a work in progress. The Profile and About sections are implemented.
 ## Features
@@ -31,7 +31,7 @@ A personal portfolio website built with plain HTML, CSS, and JavaScript. No fram
 
 ## Getting Started
 
-To view the site locally, clone the repo and open `index.html` in your browser or head to [Portfolio](https://zack-portolio.netlify.app)
+To view the site locally, clone the repo and open `index.html` in your browser, or head to [Portfolio](https://zack-portolio.netlify.app)
 ```bash
 git clone https://github.com/Zackmadness/html-css-js-Portfoilio-Zack.git
 cd html-css-js-Portfoilio-Zack
