@@ -17,9 +17,9 @@ A personal portfolio website built with plain HTML, CSS, and JavaScript.
 |---------|--------|-------------|
 | Profile | Implemented | Intro, profile picture, resume button, and social links |
 | About | Implemented | Background, experience, and education overview |
-| Experience | Unfinished | Frontend development skills; entries not yet filled in |
-| Projects | Not yet implemented | Project showcase |
-| Contact | Not yet implemented | Contact information |
+| Experience | Implemented | Frontend development skills; soft skills  |
+| Projects | Implemented | Project showcase |
+| Contact | Implemented | Contact information |
 
 ## Tech Stack
 
@@ -50,9 +50,7 @@ html-css-js-Portfoilio-Zack/
 Source files: [index.html](https://raw.githubusercontent.com/Zackmadness/html-css-js-Portfoilio-Zack/main/index.html), [style.css](https://raw.githubusercontent.com/Zackmadness/html-css-js-Portfoilio-Zack/main/style.css), [mediaqueries.css](https://raw.githubusercontent.com/Zackmadness/html-css-js-Portfoilio-Zack/main/mediaqueries.css), [script.js](https://raw.githubusercontent.com/Zackmadness/html-css-js-Portfoilio-Zack/main/script.js)
 
 ## Remaining Work
-- [ ] Fill in the Experience section with skills and tools
-- [ ] Add a Projects section with featured work
-- [ ] Add a Contact section
+- Done
 
 ## Contact
 
