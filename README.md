@@ -51,8 +51,6 @@ html-css-js-Portfoilio-Zack/
 Source files: [index.html](https://raw.githubusercontent.com/Zackmadness/html-css-js-Portfoilio-Zack/main/index.html), [style.css](https://raw.githubusercontent.com/Zackmadness/html-css-js-Portfoilio-Zack/main/style.css), [mediaqueries.css](https://raw.githubusercontent.com/Zackmadness/html-css-js-Portfoilio-Zack/main/mediaqueries.css), [script.js](https://raw.githubusercontent.com/Zackmadness/html-css-js-Portfoilio-Zack/main/script.js)
 
 ## Remaining Work
-
-- [ ] Fix the `expereince` section ID so it matches the `#experience` navigation target
 - [ ] Fill in the Experience section with skills and tools
 - [ ] Add a Projects section with featured work
 - [ ] Add a Contact section
