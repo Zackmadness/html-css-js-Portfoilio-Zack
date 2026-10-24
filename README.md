@@ -59,4 +59,4 @@ Source files: [index.html](https://raw.githubusercontent.com/Zackmadness/html-cs
 
 - **LinkedIn:** [Zackery Clayton](https://www.linkedin.com/in/zackery-clayton-b84188277/)
 - **GitHub:** [Zackmadness](https://github.com/Zackmadness/)
-- **EmailL** [Gmail](zclayton22@gmail.com)
+- **Emaill** zclayton22@gmail.com
