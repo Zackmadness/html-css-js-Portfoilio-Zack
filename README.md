@@ -1,59 +1,95 @@
-# Zack's Portfolio
+# Zackery Clayton Portfolio
 
-A personal portfolio website built with plain HTML, CSS, and JavaScript.
+A responsive personal portfolio website built with HTML, CSS, and JavaScript.
 
-> Currently a work in progress. The Profile and About sections are implemented.
+This portfolio showcases my journey into front-end development through hands-on projects, responsive design principles, and continuous learning. It highlights both my technical growth and the professional experience I've gained through leadership, customer service, and operations roles.
+
+## Live Demo
+
+[View Portfolio](https://zack-portfilio.wasmer.app/)
+
+## Screenshot
+
+![Portfolio Screenshot](./assets/project-portfolio.png)
+
 ## Features
 
-- Desktop navigation switches to a hamburger menu at viewport widths of 1200px and below
-- Mobile menu toggled with vanilla JavaScript
-- Smooth scrolling enabled through CSS
-- Resume PDF link
-- Direct links to LinkedIn and GitHub
+- Responsive desktop and mobile layouts
+- Hamburger navigation menu
+- Smooth scrolling navigation
+- Resume download
+- GitHub and LinkedIn integration
+- Project showcase section
+- Contact section
 
-## Sections
 
-| Section | Status | Description |
-|---------|--------|-------------|
-| Profile | Implemented | Intro, profile picture, resume button, and social links |
-| About | Implemented | Background, experience, and education overview |
-| Experience | Implemented | Frontend development skills; soft skills  |
-| Projects | Implemented | Project showcase |
-| Contact | Implemented | Contact information |
+## Built With
 
-## Tech Stack
-
-- **HTML5** — page structure and content
-- **CSS3** — styling, layout, and responsive design (including a separate `mediaqueries.css` for breakpoints)
-- **JavaScript** — hamburger menu interactivity
-- **Fonts** — [Poppins](https://fonts.google.com/specimen/Poppins) via Google Fonts
-
-## Getting Started
-
-To view the site locally, clone the repo and open `index.html` in your browser, or head to [Portfolio](https://zack-portfilio.wasmer.app/)
-```bash
-git clone https://github.com/Zackmadness/html-css-js-Portfoilio-Zack.git
-cd html-css-js-Portfoilio-Zack
-```
+- HTML5
+- CSS3
+- JavaScript
+- Git
+- GitHub
 
 ## Project Structure
 
-```
+```text
 html-css-js-Portfoilio-Zack/
-├── index.html          # Main page markup
-├── style.css           # Core styling
-├── mediaqueries.css    # Responsive breakpoints
-├── script.js           # Hamburger menu toggle
-└── assets/             # Images, icons, and resume PDF
+├── index.html
+├── style.css
+├── mediaqueries.css
+├── script.js
+└── assets/
 ```
 
-Source files: [index.html](https://raw.githubusercontent.com/Zackmadness/html-css-js-Portfoilio-Zack/main/index.html), [style.css](https://raw.githubusercontent.com/Zackmadness/html-css-js-Portfoilio-Zack/main/style.css), [mediaqueries.css](https://raw.githubusercontent.com/Zackmadness/html-css-js-Portfoilio-Zack/main/mediaqueries.css), [script.js](https://raw.githubusercontent.com/Zackmadness/html-css-js-Portfoilio-Zack/main/script.js)
+## Featured Projects
 
-## Remaining Work
-- Done
+### Portfolio Website
 
-## Contact
+A responsive portfolio designed to showcase my skills, projects, and growth as a developer.
 
-- **LinkedIn:** [Zackery Clayton](https://www.linkedin.com/in/zackery-clayton-b84188277/)
-- **GitHub:** [Zackmadness](https://github.com/Zackmadness/)
-- **Email** zclayton22@gmail.com
+### Rock Paper Scissors
+
+A browser-based game that demonstrates JavaScript fundamentals including event handling, DOM manipulation, score tracking, and game logic.
+
+Repository:
+https://github.com/Zackmadness/RockPaperSiccors
+
+### Calculator
+
+A calculator application built using HTML, CSS, and JavaScript, focused on user interaction, mathematical operations, and clean UI design.
+
+Repository:
+https://github.com/Zackmadness/Calculator
+
+### Odin Recipes
+
+A multi-page recipe website built while completing The Odin Project curriculum, emphasizing semantic HTML and strong web development foundations.
+
+Repository:
+https://github.com/Zackmadness/odin-recipes
+
+## About Me
+
+I'm an aspiring front-end developer with a background in customer service, retail operations, and team leadership. I'm currently focused on expanding my web development skills through project-based learning and continuous improvement.
+
+My goal is to build responsive, accessible, and user-friendly web applications while growing into a professional software development role.
+
+## Connect With Me
+
+- GitHub: https://github.com/Zackmadness
+- LinkedIn: https://www.linkedin.com/in/zackery-clayton-b84188277/
+- Email: zclayton22@gmail.com
+
+## Future Improvements
+
+- Additional JavaScript projects
+- API-powered applications
+- Enhanced accessibility
+- Dark mode theme
+- Live demos for all projects
+- Expanded project showcase
+
+---
+
+Built by Zackery Clayton
